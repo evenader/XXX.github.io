@@ -4,9 +4,6 @@
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
     "GMEEK_VERSION":"last"
 
-    ↑ 以上是必须字段
-    ↓ 以下是自定义字段，可以选择添加
-
     "displayTitle":"头像后面的标题",
     "homeUrl":"http://blog.xxx.com",
     "faviconUrl":"https://github.githubassets.com/favicons/favicon.svg",
